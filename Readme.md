@@ -1,5 +1,7 @@
 # Example how to push an minimal swift cloudfoundry app
 
+Fork this project to start coding and have fun.
+
 ## install
 ```shell
 bash$ git clone git@github.com:idev4u/cf-swift-server.git
