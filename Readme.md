@@ -1,6 +1,6 @@
 # Example how to push an minimal swift cloudfoundry app
 
-Fork this project to start coding and have fun.
+Fork this project to start coding and have fun. 🤓
 
 ## install
 ```shell
