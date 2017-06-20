@@ -1,4 +1,4 @@
-# Example how to push an cf swift minimal
+# Example how to push an minimal swift cloudfoundry app
 
 ## install
 ```shell
