@@ -10,8 +10,8 @@ bash$ cf push <your-cool-swift-app>
 
 ```shell
 bash$ curl `cf apps | grep started | awk '{print($6)}'`
+Hello, Swift Developers!
 ```
-
 
 ## development
 
