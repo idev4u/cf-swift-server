@@ -12,7 +12,7 @@ let router = Router()
 // Handle HTTP GET requests to /
 router.get("/") {
     request, response, next in
-    response.send("Hello, Norman!\n")
+    response.send("Hello, Swift Developers!\n")
     next()
 }
 
